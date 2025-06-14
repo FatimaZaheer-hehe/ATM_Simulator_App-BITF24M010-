@@ -1,0 +1,8 @@
+Withdrawal: Rs. 1000.00 | Balance: Rs. 0.00
+Deposit: Rs. 1200.00 | Balance: Rs. 2200.00
+Withdrawal: Rs. 1000.00 | Balance: Rs. 0.00
+Deposit: Rs. 1500.00 | Balance: Rs. 1500.00
+Deposit: Rs. 25000.00 | Balance: Rs. 26500.00
+Withdrawal: Rs. 24500.00 | Balance: Rs. 2000.00
+Deposit: Rs. 122220.00 | Balance: Rs. 123220.00
+Withdrawal: Rs. 500.00 | Balance: Rs. 500.00
